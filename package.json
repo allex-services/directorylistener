@@ -1,0 +1,21 @@
+{
+  "name": "allex_directorylistenerservice",
+  "version": "0.1.0",
+  "description": "DirectoryListenerService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@gitlab.hers.rs:allex_services/directorylistener"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "DirectoryListener"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
+
