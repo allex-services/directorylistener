@@ -2,10 +2,10 @@ function createServicePack(execlib) {
   'use strict';
   return {
     service: {
-      dependencies: ['allex:needing', 'allex:directory:lib', 'allex:timer:lib']
+      dependencies: ['allex_needingservice', 'allex:directory:lib', 'allex:timer:lib']
     },
     sinkmap: {
-      dependencies: ['allex:needing']
+      dependencies: ['allex_needingservice']
     }, /*
     tasks: {
       dependencies: []
